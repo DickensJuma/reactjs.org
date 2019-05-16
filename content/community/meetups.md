@@ -76,6 +76,9 @@ Do you have a local React.js meetup? Add it here! (Please keep the list alphabet
 ## Israel {#israel}
 * [Tel Aviv](https://www.meetup.com/ReactJS-Israel/)
 
+## Kenya {#kenya}
+* [Kisumu](https://www.meetup.com/ReactJS-Kenya/)
+
 ## Netherlands {#netherlands}
 * [Amsterdam](https://www.meetup.com/React-Amsterdam/)
 
